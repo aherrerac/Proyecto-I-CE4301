@@ -1,0 +1,438 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/simulation/modelsim
+vadder
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1555113685
+!i10b 1
+!s100 T?c:4mCf9:XzoJXjlIAm70
+IV>Yhh]hLH<4fCF?hHjVSc2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 adder_sv_unit
+S1
+R0
+Z4 w1542142045
+8C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks/adder.sv
+FC:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks/adder.sv
+L0 2
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1555113685.000000
+!s107 C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks/adder.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks|C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks/adder.sv|
+!i113 1
+Z7 o-sv -work work
+Z8 !s92 -sv -work work {+incdir+C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks}
+Z9 tCvgOpt 0
+valu32
+R1
+R2
+!i10b 1
+!s100 EeojjMW5RM=;F`E2<2^OR1
+INb@LRj]5Q`?;G1K>ii@do2
+R3
+!s105 alu32_sv_unit
+S1
+R0
+R4
+8C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/ALU/alu32.sv
+FC:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/ALU/alu32.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/ALU/alu32.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/ALU|C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/ALU/alu32.sv|
+!i113 1
+R7
+!s92 -sv -work work {+incdir+C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/ALU}
+R9
+varm
+R1
+Z10 !s110 1555113683
+!i10b 1
+!s100 YbH59L`kl94B]9Z=XBzmD3
+I`LaDEB?fnP_OA>eEVj;lh1
+R3
+!s105 arm_sv_unit
+S1
+R0
+R4
+8C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/arm.sv
+FC:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/arm.sv
+L0 2
+R5
+r1
+!s85 0
+31
+Z11 !s108 1555113683.000000
+!s107 C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/arm.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM|C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/arm.sv|
+!i113 1
+R7
+Z12 !s92 -sv -work work {+incdir+C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM}
+R9
+vCondCheck
+R1
+R10
+!i10b 1
+!s100 K;FlaFBT_0U5C`K:Jo^>40
+Iz;P9NJHZ6DH2lM[VIE0J73
+R3
+Z13 !s105 condlogic_sv_unit
+S1
+R0
+R4
+Z14 8C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/condlogic.sv
+Z15 FC:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/condlogic.sv
+L0 29
+R5
+r1
+!s85 0
+31
+R11
+Z16 !s107 C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/condlogic.sv|
+Z17 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM|C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/condlogic.sv|
+!i113 1
+R7
+R12
+R9
+n@cond@check
+vCondLogic
+R1
+R10
+!i10b 1
+!s100 m93A80nR6R_DcEI5aeN`D0
+IHioofbXY`ICoz?U5QVOfG3
+R3
+R13
+S1
+R0
+R4
+R14
+R15
+L0 1
+R5
+r1
+!s85 0
+31
+R11
+R16
+R17
+!i113 1
+R7
+R12
+R9
+n@cond@logic
+vcontroller
+R1
+Z18 !s110 1555113682
+!i10b 1
+!s100 3z3HV;eNAkO@n2fD02dDB3
+IXlNP8YCV6Y;Z2EPH=lAVd1
+R3
+!s105 controller_sv_unit
+S1
+R0
+R4
+8C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/controller.sv
+FC:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/controller.sv
+L0 1
+R5
+r1
+!s85 0
+31
+Z19 !s108 1555113682.000000
+!s107 C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/controller.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM|C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/controller.sv|
+!i113 1
+R7
+R12
+R9
+vdatapath
+R1
+R18
+!i10b 1
+!s100 MlPXKVHWOMIDBG0?kQ`h_3
+Ide?7TI3Qob7eRo?l@4mRS3
+R3
+!s105 datapath_sv_unit
+S1
+R0
+R4
+8C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/datapath.sv
+FC:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/datapath.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/datapath.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM|C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/datapath.sv|
+!i113 1
+R7
+R12
+R9
+vDecoder
+R1
+R18
+!i10b 1
+!s100 if=iz<OA1NjYBhl=R1acN3
+INo7_efSK4g<J_KmiN7j>^1
+R3
+!s105 decoder_sv_unit
+S1
+R0
+R4
+8C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/decoder.sv
+FC:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/decoder.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/decoder.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM|C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/decoder.sv|
+!i113 1
+R7
+R12
+R9
+n@decoder
+vdmem
+R1
+Z20 !s110 1555113684
+!i10b 1
+!s100 _32FD5gXHV22S:gPaDEo;3
+Ig;cG?>C5ML@LBP71og^cH1
+R3
+!s105 dmem_sv_unit
+S1
+R0
+R4
+8C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/testbench/dmem.sv
+FC:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/testbench/dmem.sv
+L0 1
+R5
+r1
+!s85 0
+31
+Z21 !s108 1555113684.000000
+!s107 C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/testbench/dmem.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/testbench|C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/testbench/dmem.sv|
+!i113 1
+R7
+Z22 !s92 -sv -work work {+incdir+C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/testbench}
+R9
+vextend
+R1
+R2
+!i10b 1
+!s100 ogoOS[o[To6h<5N]7^b5K2
+I<I?]W`]o2f9E^X=Wmg8X]1
+R3
+!s105 extend_sv_unit
+S1
+R0
+R4
+8C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks/extend.sv
+FC:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks/extend.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks/extend.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks|C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks/extend.sv|
+!i113 1
+R7
+R8
+R9
+vflopenr
+R1
+R2
+!i10b 1
+!s100 _N`KN1dCFhDneR2`lT0jN0
+IT2a`WK8SYQ5<CLZKfLVT61
+R3
+!s105 flopenr_sv_unit
+S1
+R0
+R4
+8C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks/flopenr.sv
+FC:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks/flopenr.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks/flopenr.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks|C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks/flopenr.sv|
+!i113 1
+R7
+R8
+R9
+vflopr
+R1
+R20
+!i10b 1
+!s100 fiY`Pb??g8M`F^Sa_I]A11
+IUzfcJA?HZmaog77HIeWD_1
+R3
+!s105 flopr_sv_unit
+S1
+R0
+R4
+8C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks/flopr.sv
+FC:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks/flopr.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R21
+!s107 C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks/flopr.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks|C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks/flopr.sv|
+!i113 1
+R7
+R8
+R9
+vimem
+R1
+!s110 1555113686
+!i10b 1
+!s100 3B6ZFgZo<9a15@@h5kbLz0
+Inf=aHDPl9VMP]HdzXN7ZF2
+R3
+!s105 imem_sv_unit
+S1
+R0
+w1555047203
+8C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/testbench/imem.sv
+FC:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/testbench/imem.sv
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1555113686.000000
+!s107 C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/testbench/imem.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/testbench|C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/testbench/imem.sv|
+!i113 1
+R7
+R22
+R9
+vmux2
+R1
+R20
+!i10b 1
+!s100 QL87SB?l<2WW1MlmMgh;?2
+IQ<9n7FU7`m[<WZl14FBPU2
+R3
+!s105 mux2_sv_unit
+S1
+R0
+R4
+8C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks/mux2.sv
+FC:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks/mux2.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R21
+!s107 C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks/mux2.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks|C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks/mux2.sv|
+!i113 1
+R7
+R8
+R9
+vregfile
+R1
+R20
+!i10b 1
+!s100 L7[Ii7n7KR_bJ<h[3Wm_M2
+IzWWWALd97^AO_JVmRTT`B0
+R3
+!s105 regfile_sv_unit
+S1
+R0
+R4
+8C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks/regfile.sv
+FC:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks/regfile.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R21
+!s107 C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks/regfile.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks|C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/genericBuildingBlocks/regfile.sv|
+!i113 1
+R7
+R8
+R9
+vtestbench
+R1
+R20
+!i10b 1
+!s100 dfOF_8g<zMMW^Fz1ZCDI^2
+Ib8bmJz;P=6h`=10H:W6>^2
+R3
+!s105 testbench_sv_unit
+S1
+R0
+R4
+8C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/testbench/testbench.sv
+FC:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/testbench/testbench.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/testbench/testbench.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/testbench|C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/testbench/testbench.sv|
+!i113 1
+R7
+R22
+R9
+vtop
+R1
+R10
+!i10b 1
+!s100 lLAO2mC_CQE?Dl_n@<`853
+I5=EYZd5];5;FzMo`>k>:10
+R3
+!s105 top_sv_unit
+S1
+R0
+R4
+8C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/testbench/top.sv
+FC:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/testbench/top.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/testbench/top.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/testbench|C:/Users/pablo/Documents/1-TEC/Arqui I/Proyecto-1-CE4301/DonkeyKong-Quartus-master/ARM/testbench/top.sv|
+!i113 1
+R7
+R22
+R9

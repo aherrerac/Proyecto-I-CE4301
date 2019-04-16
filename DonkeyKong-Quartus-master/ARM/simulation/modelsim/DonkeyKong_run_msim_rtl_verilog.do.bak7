@@ -1,0 +1,24 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -sv -work work +incdir+C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM {C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/arm.sv}
+vlog -sv -work work +incdir+C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM {C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/controller.sv}
+vlog -sv -work work +incdir+C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM {C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/decoder.sv}
+vlog -sv -work work +incdir+C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM {C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/condlogic.sv}
+vlog -sv -work work +incdir+C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM {C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/datapath.sv}
+vlog -sv -work work +incdir+C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/genericBuildingBlocks {C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/genericBuildingBlocks/regfile.sv}
+vlog -sv -work work +incdir+C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/genericBuildingBlocks {C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/genericBuildingBlocks/adder.sv}
+vlog -sv -work work +incdir+C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/genericBuildingBlocks {C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/genericBuildingBlocks/extend.sv}
+vlog -sv -work work +incdir+C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/genericBuildingBlocks {C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/genericBuildingBlocks/flopr.sv}
+vlog -sv -work work +incdir+C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/genericBuildingBlocks {C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/genericBuildingBlocks/flopenr.sv}
+vlog -sv -work work +incdir+C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/genericBuildingBlocks {C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/genericBuildingBlocks/mux2.sv}
+vlog -sv -work work +incdir+C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/ALU {C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/ALU/alu.sv}
+vlog -sv -work work +incdir+C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/testbench {C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/testbench/testbench.sv}
+vlog -sv -work work +incdir+C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/testbench {C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/testbench/top.sv}
+vlog -sv -work work +incdir+C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/testbench {C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/testbench/dmem.sv}
+vlog -sv -work work +incdir+C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/testbench {C:/Users/Pablo/Documents/1-TEC/Taller/DonkeyKong-Quartus/ARM/testbench/imem.sv}
+

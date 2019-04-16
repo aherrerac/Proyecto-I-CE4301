@@ -1,0 +1,21 @@
+module main(input logic clk, reset,
+			input logic [31:0] Instr,
+			input logic [31:0] ReadData,
+       	    input logic in1,
+       	    output logic [31:0] PC,
+			output logic MemWrite,
+			output logic [31:0] ALUResult, WriteData,
+			output logic vsync,
+			output logic hsync,
+			output logic blank,
+			output logic sync,
+			output logic [7:0] r,
+			output logic [7:0] g,
+			output logic [7:0] b,
+			output logic vga_clk);
+	
+	arm ARM(clk,rest,PC,Instr,MemWrite,ALUResult,WriteData,ReadData);
+	system VGA( clk,reset,vsync,hsync,blank,sync,r,g,b,vga_clk,in1);
+	
+endmodule
+
